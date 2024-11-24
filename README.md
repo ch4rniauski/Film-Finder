@@ -5,6 +5,8 @@ This is my pet-project with user-friendly interface. That web-application gives 
 ## Tech Stack
 
 - JavaScript
+- CSS
+- HTML
 
 ## Installation
 
