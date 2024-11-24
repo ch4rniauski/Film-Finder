@@ -34,7 +34,7 @@ This is my pet-project with user-friendly interface. That web-application gives 
   
   ![image](https://github.com/ch4rniauski/Film-Finder/blob/main/Screenshots/My%20Favorite%20films%20list.jpg?raw=true)
   
-5. **Pagination** To navigate through the pages that field with movies you can use Pagination buttons at the bottom of the page.
+6. **Pagination** To navigate through the pages that field with movies you can use Pagination buttons at the bottom of the page.
    
    ![image](https://github.com/ch4rniauski/Film-Finder/blob/main/Screenshots/Pagination1.jpg?raw=true)
    
