@@ -27,7 +27,7 @@ This is my pet-project with user-friendly interface. That web-application gives 
    
   ![image](https://github.com/ch4rniauski/Film-Finder/blob/main/Screenshots/Popup.jpg?raw=true)
   
-4. **Add favorite film** If you want you can click `Favorite` button and add selected film to your favorite films list. To look at your favorite films list you just need to move your cursor on `My Account` button and select `My Favorite`.
+4. **Add favorite film:** If you want you can click `Favorite` button and add selected film to your favorite films list. To look at your favorite films list you just need to move your cursor on `My Account` button and select `My Favorite`.
    
   ![image](https://github.com/ch4rniauski/Film-Finder/blob/main/Screenshots/My%20Favorite.jpg?raw=true)
   
